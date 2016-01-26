@@ -14,3 +14,12 @@
 
 ![Install](Images/InstallF.png "Install")
 
+4.访问[仓库网页](https://github.com/LinkinYoung/Exercise "")，克隆到本地：
+
+![Clone](Images/Res.png "Clone")
+
+然后选择保存位置：
+
+![Save](Images/Select.png "Clone")
+
+保存位置任意。
